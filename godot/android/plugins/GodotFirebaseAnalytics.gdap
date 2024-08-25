@@ -1,0 +1,9 @@
+[config]
+
+name="GodotFirebaseAnalytics"
+binary_type="local"
+binary="GodotFirebaseAnalytics-v0.0.2.aar"
+
+[dependencies]
+
+remote=[ "com.google.firebase:firebase-bom:32.8.1", "com.google.firebase:firebase-analytics:21.6.2"]
